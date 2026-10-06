@@ -1,8 +1,6 @@
 # Andrew Mock
 
-Hey, I'm Andrew. I'm a software engineering senior at Brigham Young University-Idaho with a growing interest in cybersecurity, web development, and building useful software.
-
-I enjoy learning how things work, figuring out why they break, and finding practical ways to make them better. That applies to software, computers, cars, and pretty much anything mechanical.
+Hey, I'm Andrew, a software engineering senior at Brigham Young University-Idaho with a growing interest in cybersecurity, web development, and building useful software. I enjoy learning how things work, figuring out why they break, and finding practical ways to make them better. That applies to software, computers, cars, and pretty much anything mechanical.
 
 ## What I'm Working On
 
